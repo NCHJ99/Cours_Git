@@ -1,6 +1,13 @@
 body{
-    background-color: lightblue;
+    background-color: black;
 }
 h1{
-    color: red;
+    color: aqua;
+}
+p{
+    color: aqua;
+}
+.image{
+    width: 100px;
+    height: 100px;
 }

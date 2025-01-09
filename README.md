@@ -1,2 +1,2 @@
-- Ajout du fichier HTML "Hello world!"
-- Application du CSS
+1. Ajout du fichier HTML "Hello world!"
+2. Application du CSS
